@@ -483,10 +483,7 @@ namespace Анализатор_файлов
                 StNabor[i] = Convert.ToString(Nabor[i], 16).ToUpper();
                 if (StNabor[i].Length == 1) StNabor[i] = "0" + StNabor[i];
             }
-            //var Win1251StNabor = (Encoding.GetEncoding(1251).GetString(Nabor)).ToArray();
             Win1251StNabor.AddRange(Encoding.GetEncoding(1251).GetString(Nabor));
-            //char[] UnicodeStNabor = {Encoding.Unicode.GetString(Nabor).ToArray()}; //массив пеереведенных в Unicode байтов
-            ///textBox1.Text = System.IO.Path.GetExtension(dialog.FileName); //выводим расширение выбранного файла
             label7.Visible = true;
             label7.Text = FileName;
 
@@ -508,9 +505,6 @@ namespace Анализатор_файлов
                 dataGridView1.Rows[r].Cells[c].Value = StNabor[j];
                 char ggg = Win1251StNabor[j];
                 dataGridView2.Rows[r].Cells[c].Value = Win1251StNabor[j];
-
-                //dataGridView1.Rows[r].HeaderCell.Value = r.ToString();//нумерация строк
-
 
                 c += 1;
                 if (c == columns)
@@ -826,8 +820,6 @@ namespace Анализатор_файлов
 
         private void dataGridView3_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            //dataGridView1.ClearSelection();
-            //dataGridView2.ClearSelection();
             dataGridView1.Rows[Convert.ToInt32(dataGridView3.Rows[e.RowIndex].HeaderCell.Value.ToString()) - 1].Selected = true;
             dataGridView1.FirstDisplayedScrollingRowIndex = Convert.ToInt32(dataGridView3.Rows[e.RowIndex].HeaderCell.Value) - 1;
         }
@@ -896,12 +888,6 @@ namespace Анализатор_файлов
                         dataGridView3.Rows.Add(row);
                         int ggg = RowHeadersNumber[dataGridView3.Rows.Count - 1];
                     }
-                    //DataGridViewRow row = new DataGridViewRow();
-                    //row.CreateCells(dataGridView3, sig, Formats[Array.IndexOf(Signatures, sig)]);
-                    //row.Cells[0].Value = sig;
-                    //row.Cells[1].Value = Formats[Array.IndexOf(Signatures, sig)];
-                    //dataGridView3.Rows.Add(row);
-                    // dataGridView3.Rows[dataGridView3.Rows.Count - 1].HeaderCell.Value = RowHeadersNumber[dataGridView3.Rows.Count - 1];
                 }
             }
             for (int row = 0; row < dataGridView3.Rows.Count; row++)
