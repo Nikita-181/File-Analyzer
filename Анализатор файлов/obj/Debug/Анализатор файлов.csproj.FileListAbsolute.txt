@@ -1,0 +1,30 @@
+C:\Users\Никита\Desktop\НИР 2\Анализатор файлов\Анализатор файлов\bin\Debug\Анализатор файлов.exe.config
+C:\Users\Никита\Desktop\НИР 2\Анализатор файлов\Анализатор файлов\bin\Debug\Анализатор файлов.exe
+C:\Users\Никита\Desktop\НИР 2\Анализатор файлов\Анализатор файлов\bin\Debug\Анализатор файлов.pdb
+C:\Users\Никита\Desktop\НИР 2\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\НИР 2\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор_файлов.Form1.resources
+C:\Users\Никита\Desktop\НИР 2\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор_файлов.Properties.Resources.resources
+C:\Users\Никита\Desktop\НИР 2\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\НИР 2\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\НИР 2\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.exe
+C:\Users\Никита\Desktop\НИР 2\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.pdb
+C:\Users\Никита\Desktop\ВУЗ\НИР\НИР 3\Анализатор файлов\Анализатор файлов\bin\Debug\Анализатор файлов.exe.config
+C:\Users\Никита\Desktop\ВУЗ\НИР\НИР 3\Анализатор файлов\Анализатор файлов\bin\Debug\Анализатор файлов.exe
+C:\Users\Никита\Desktop\ВУЗ\НИР\НИР 3\Анализатор файлов\Анализатор файлов\bin\Debug\Анализатор файлов.pdb
+C:\Users\Никита\Desktop\ВУЗ\НИР\НИР 3\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор_файлов.Form1.resources
+C:\Users\Никита\Desktop\ВУЗ\НИР\НИР 3\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор_файлов.Properties.Resources.resources
+C:\Users\Никита\Desktop\ВУЗ\НИР\НИР 3\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\ВУЗ\НИР\НИР 3\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\ВУЗ\НИР\НИР 3\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.exe
+C:\Users\Никита\Desktop\ВУЗ\НИР\НИР 3\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.pdb
+C:\Users\Никита\Desktop\ВУЗ\НИР\НИР 3\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Диплом\Анализатор файлов\Анализатор файлов\bin\Debug\Анализатор файлов.exe.config
+C:\Users\Никита\Desktop\Диплом\Анализатор файлов\Анализатор файлов\bin\Debug\Анализатор файлов.exe
+C:\Users\Никита\Desktop\Диплом\Анализатор файлов\Анализатор файлов\bin\Debug\Анализатор файлов.pdb
+C:\Users\Никита\Desktop\Диплом\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Диплом\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор_файлов.Form1.resources
+C:\Users\Никита\Desktop\Диплом\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор_файлов.Properties.Resources.resources
+C:\Users\Никита\Desktop\Диплом\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Диплом\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Диплом\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.exe
+C:\Users\Никита\Desktop\Диплом\Анализатор файлов\Анализатор файлов\obj\Debug\Анализатор файлов.pdb
